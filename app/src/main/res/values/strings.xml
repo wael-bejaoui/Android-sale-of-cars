@@ -1,0 +1,24 @@
+<resources>
+    <string name="app">Location_voiture</string>
+    <string-array name="names">
+        <item>Peugeot 2008</item>
+        <item>Peugeot 208</item>
+        <item>Peugeot 3008</item>
+        <item>Peugeot 301</item>
+        <item>Peugeot 308</item>
+        <item>Peugeot 5008</item>
+    </string-array>
+
+    <string-array name="prix">
+        <item>72 990</item>
+        <item>30 380</item>
+        <item>109 990</item>
+        <item>45 990</item>
+        <item>67 990</item>
+        <item>152 990</item>
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
